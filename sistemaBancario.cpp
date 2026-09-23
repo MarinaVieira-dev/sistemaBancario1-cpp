@@ -125,6 +125,7 @@ int main() {
                         }else{
                             cout<< "Situacao: Inativa"<< endl;
                         }
+                        cout<<"*************************\n";
                     }
                 }
                 break;
